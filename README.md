@@ -133,11 +133,3 @@ Contributions are welcome!
 4. Open a Pull Request
 
 ---
-
-## 📧 Contact
-
-* **Author**: Johnvessly Alti
-* **Email**: [altijohnvessly@gmail.com](mailto:altijohnvessly@gmail.com)
-* **GitHub**: [johnvesslyalti](https://github.com/johnvesslyalti)
-* **Portfolio**: [johnvesslyalti.vercel.app](https://johnvesslyalti.vercel.app)
-* **LinkedIn**: [linkedin.com/in/johnvesslyalti](https://linkedin.com/in/johnvesslyalti)
